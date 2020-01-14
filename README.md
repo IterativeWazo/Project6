@@ -60,8 +60,6 @@ In a separate terminal window, Compile smart contracts:
 truffle compile
 ```
 
-Your terminal should look something like this:
-
 
 This will create the smart contract artifacts in folder ```build\contracts```.
 
